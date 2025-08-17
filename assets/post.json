@@ -1,0 +1,16 @@
+[
+  {
+    "user": "John Doe",
+    "userid": "JD123",
+    "image": "assets/lap.png",
+    "title": "Asus Zenbook S Laptop",
+    "description": "A premium verision of asus zenbook laptop.A limited deal where S verison of zenbook is available,GRAB NOW !!!!"
+  },
+  {
+    "user": "Jane Smith",
+    "userid": "JS456",
+    "image": "assets/mob.png",
+    "title": "Samsung S25 Ultra ",
+    "description": "Pre-order the Galaxy S25 Ultra here  And get,, 1. $300 Samsung Credit (Perfect for storage upgrades, add-ons, or Samsung Care), 2. Exclusive $50 Samsung Credit ."
+  }
+]
