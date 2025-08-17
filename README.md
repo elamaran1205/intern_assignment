@@ -22,4 +22,22 @@ Drawer Navigation with Dashboard, Settings, Contact, Help, and Profile
 
 Styling with Google Fonts (Poppins) and support for local & network images
 
+Setup :
 
+Clone the repository
+
+git clone <your-github-repo-link>
+cd <repo-folder>
+
+
+Install dependencies
+
+flutter pub get
+
+
+Run the app
+
+flutter run
+
+
+Make sure a device or emulator is connected.
