@@ -16,9 +16,7 @@ Custom PostContainer widget showing user, title, description, and image
 
 Clickable items open a Details Screen
 
-Details Screen showing full post information
-
-Drawer Navigation with Dashboard, Settings, Contact, Help, and Profile
+Details Screen showing full post 
 
 Styling with Google Fonts (Poppins) and support for local & network images
 
